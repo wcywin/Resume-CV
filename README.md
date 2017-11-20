@@ -27,3 +27,7 @@ Learning:
 - React
 - AngularJS
 
+Working on:
+- WebStorm IDE
+- Cloud9 IDE
+
