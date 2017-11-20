@@ -4,7 +4,7 @@ Looking for a commercial job in IT as Junior Front-End Developer / Front-End Dev
 
 Front-End:
 - HTML5 & CSS3
-- Bootstrap 3/4, Semantic UI, Flexbox
+- Bootstrap 3/4, Semantic UI, Flexbox, RWD
 - Sass(scss)
 - Animations, transitions, keyframes
 - PSD to HTML5
