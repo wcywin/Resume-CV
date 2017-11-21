@@ -22,6 +22,8 @@ Back-End:
 - AJAX/JSON
 - RESTful API
 - npm
+- Git
+- Heroku, mLab
 
 Learning:
 - React
