@@ -10,7 +10,7 @@ Front-End:
 - PSD to HTML5
 - Scripts: animate.css, moment.js, paper.js, waypoints.js, wow.js, font awesome, private fonts etc.
 - JavaScript, ES2015/ES6
-- jQuery, jQuery UI
+- DOM, jQuery, jQuery UI
 - npm Babel, Gulp
 
 Back-End:
