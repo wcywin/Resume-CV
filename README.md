@@ -11,6 +11,7 @@ Front-End:
 - Scripts: animate.css, moment.js, paper.js, waypoints.js, wow.js, font awesome, private fonts etc.
 - JavaScript, ES2015/ES6
 - DOM, jQuery, jQuery UI
+- Jasmine, Unit testing
 - npm Babel, Gulp
 
 Back-End:
