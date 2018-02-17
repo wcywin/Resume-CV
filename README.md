@@ -1,6 +1,6 @@
 # Resume
 
-Looking for a commercial job in IT as Junior / Front-End Developer / Web Developer / Full Stack
+Front-End Developer / Web Developer / Full Stack
 
 Front-End:
 - HTML5 & CSS3
