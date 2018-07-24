@@ -30,3 +30,4 @@ Back-End:
 Working on:
 - WebStorm IDE, Cloud9 IDE
 - Windows, Mac
+- JIRA
