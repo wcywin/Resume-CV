@@ -11,9 +11,10 @@ Front-End:
 - Libraries: animate.css, moment.js, waypoints.js
 - JavaScript, ES2015/ES6/ES7, OOP, DOM, events
 - jQuery, jQuery UI
-- Jasmine, Unit testing, TDD, BDD
-- Npm Babel, Gulp, Webpack
-- WordPress, MailChimp
+- Jasmine, Jest, Unit testing
+- npm, yarn 
+- Babel, Gulp, Webpack
+- ReactJS & Redux
 
 Back-End:
 - NodeJS
@@ -23,13 +24,9 @@ Back-End:
 - MongoDB, SQL
 - AJAX/JSON, SPA
 - RESTful API
-- Git, GitHub
+- Git, GitHub, GitLab
 - Heroku, mLab
-
-Learning:
-- ReactJS & Redux
 
 Working on:
 - WebStorm IDE, Cloud9 IDE
 - Windows, Mac
-
